@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EE879ECED5D6B1A64C51411EB03DE5B166EF4D46",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D3239580941E345AB636F3B382D35AC2CB008F45" : 0,
+    "EE879ECED5D6B1A64C51411EB03DE5B166EF4D46" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2097D861-76C2-4782-B754-CCDAEF85B914",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D3239580941E345AB636F3B382D35AC2CB008F45" : "..",
+    "EE879ECED5D6B1A64C51411EB03DE5B166EF4D46" : "ForeignExchangeApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ForeignExchangeApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ForeignExchangeApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/BuddyBuild\/BB.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D3239580941E345AB636F3B382D35AC2CB008F45"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:iOSTestApps\/ForeignExchangeApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EE879ECED5D6B1A64C51411EB03DE5B166EF4D46"
+    }
+  ]
+}
